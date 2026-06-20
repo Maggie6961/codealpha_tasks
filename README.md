@@ -1,19 +1,31 @@
-# CodeAlpha Python Programming Internship
+# CodeAlpha Artificial Intelligence Internship
 
-This repository contains the tasks completed as part of my Artificial Intelligence Internship at CodeAlpha.
+This repository contains the projects completed during my Python Programming Internship at CodeAlpha.
 
 ## Task 1: FAQ Chatbot
-Developed a Python-based FAQ Chatbot that provides automated responses to user queries using predefined questions and answers.
+A Python-based FAQ Chatbot developed using Streamlit and Machine Learning techniques. The chatbot uses TF-IDF Vectorization and Cosine Similarity to understand user queries and provide the most relevant answers from a predefined FAQ dataset.
 
-## Task 2: Music Player
-Developed a Music Player application using Python that allows users to play, pause, resume, and stop audio files through a simple interface.
-
-## Task 2: Object Detection
-Developed an Object Detection application using Python and computer vision techniques to identify and detect object.
-
-## Technologies Used
+### Technologies Used
 - Python
-- OpenCV
+- Streamlit
+- Pandas
+- Scikit-learn
+
+## Task 2: Language Translation Tool
+A Language Translation Tool developed using Python and Streamlit that translates text between multiple languages. The application supports text-to-speech functionality, allowing users to listen to translated text, and includes clipboard support for easy copying.
+
+### Technologies Used
+- Python
+- Streamlit
+- Deep Translator
+- gTTS
+- Pyperclip
+
+## Task 3: Music Player
+A Music Player application developed using Python that enables users to play, pause, resume, and stop audio files through a simple and user-friendly interface.
+
+### Technologies Used
+- Python
 - Tkinter
 - Pygame
 
@@ -21,4 +33,4 @@ Developed an Object Detection application using Python and computer vision techn
 Kasa Meghana
 
 ## Internship
-CodeAlpha - Artificial Intelligence Internship
+CodeAlpha – Artificial Intelligence Internship
